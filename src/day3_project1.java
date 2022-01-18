@@ -3,6 +3,6 @@ public class day3_project1 {
         System.out.println("Wooden spoon");
         // step 1
         //step 2
-        //step 3
+        //step 3.
     }
 }
